@@ -1,6 +1,6 @@
-<img align="center" alt="Coding" width="1000" src="mypic.jpg" >
+<img align="center" alt="Coding" width="1000" src="Violet Blue Modern Coding Bootcamp Facebook Banner.png" >
 
-<h1 align="center">Hi <img alt="Coding" width="35" src="Hi.gif" >, I'm Deekshant Goyal</h1>
+<h1 align="center">Hi, I'm Deekshant Goyal 😀</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 
