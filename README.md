@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 
-
+- 👨‍💻 Software Engineer Intern at **Ecolab Digital Center**
 - 📫 How to reach me **deekshantgoyal63@gmail.com**
 - 🔭 I’m currently working on **Web Developnment**
 - 👨‍💻 All of my projects are available  **on my Github**
