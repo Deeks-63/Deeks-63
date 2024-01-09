@@ -4,12 +4,10 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 
-- 👨‍💻 Software Engineer Intern at **Ecolab Digital Center**
+- 👨‍💻 Software Engineer Trainee at **Ecolab Digital Center**
 - 📫 How to reach me **deekshantgoyal63@gmail.com**
 - 🔭 I’m currently working on **Web Developnment**
-- 👨‍💻 All of my projects are available  **on my Github**
-- 💬 Ask me about  **C/C++, DSA, MERN, Javascript, MySQL/Mongodb**
-- 📄 Know about me through Resume [Click here](https://drive.google.com/file/d/11cii3sEaMWeh7uC3VdBqckAU3S9FoEHv/view?usp=drivesdk)
+- 💬 Ask me about  **C/C++, DSA, MERN, Javascript, MySQL/Mongodb, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
